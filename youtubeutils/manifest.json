@@ -1,0 +1,23 @@
+{
+  "name": "YouTubePlaylistBackup",
+  "short_name": "YouTubePlaylistBackup",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "description": "If you like organize YouTube videos by playlists then this application for you.",
+  "categories": [
+    "youtube",
+    "playlist",
+    "backup",
+    "Playlist Backup",
+    "PlaylistSync"
+  ],
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
