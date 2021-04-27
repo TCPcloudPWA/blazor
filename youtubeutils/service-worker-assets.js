@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-UhEuc13hiEyDG1sgj04q7\/Y6PAocuaJ0xjLQUwIOs8o=",
+      "hash": "sha256-aE1Xk2G0LzT1Y4MQe3rylD1vAfy+9MJMryi+2F3WhHE=",
       "url": "css\/app.css"
     },
     {
@@ -861,11 +861,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-CWoHTiO8foGGparWMrNbVUOZv4MLIQKdFTPT9xui1Ek=",
+      "hash": "sha256-TS1s\/af1nA\/\/YvbfK\/jqbHLxGNjzG521qZJOEp+onYA=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-W89eYPholguDyIdrJiS81ZNohEsVeFYry2mkGvZ6gHE=",
+      "hash": "sha256-j9IGw4KWVqoyr3BjpZ9dDRV8F1N9qqvEw9ydQtH4Ca8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -873,5 +873,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "F6U9pCJP"
+  "version": "2HF+yNBe"
 };

@@ -56,7 +56,7 @@ a, .btn-link {
     text-decoration: underline;
 }
 
-/* doesn't work for in Index.razor
+/* doesn't work in Index.razor
 .at-screen-bottom {
     position: fixed;
     bottom: 0;
