@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
-  "description": "If you like organize YouTube videos by playlists then this application for you.",
+  "description": "If you like to add YouTube videos to playlists and watch them later, this app is for you. You can backup playlists for more than one account. It allows searching through all playlists and displaying only playlists containing video names with specified criteria, showing the original video name if the video became private or deleted. App downloads playlists per your request when you ready to backup.  Straightforward interface, no unnecessary content is loaded from YouTube, just your playlists. Enjoy",
   "categories": [
     "youtube",
     "playlist",
