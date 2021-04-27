@@ -55,3 +55,10 @@ a, .btn-link {
     color: blue;
     text-decoration: underline;
 }
+
+/* doesn't work for in Index.razor
+.at-screen-bottom {
+    position: fixed;
+    bottom: 0;
+}
+*/
