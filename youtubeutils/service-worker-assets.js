@@ -773,7 +773,7 @@
       "url": "_content\/Blazorise\/blazorise.js"
     },
     {
-      "hash": "sha256-MHL+zFlfKcP0yfkyGfXVf\/b1MgMXkSsuHgGxP21xMWs=",
+      "hash": "sha256-HA5musFS0a8k4I0Tigj\/ivaGxfLgBc2h\/9ODR1mKWqo=",
       "url": "_content\/Blazorise.Bootstrap\/blazorise.bootstrap.css"
     },
     {
@@ -785,15 +785,15 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-YBSG0iK+H44perVHhptdeBskve91OGvRUIhQfRNEDFQ=",
+      "hash": "sha256-1FbUsCsYOWaS7lBvnmVXn54A2rYS03sMeSWH6CgfBYc=",
       "url": "_framework\/Blazorise.dll"
     },
     {
-      "hash": "sha256-cj1DVix3Y72A7KcmbXib15y4N\/47LsfPAwGuIAimkC8=",
+      "hash": "sha256-B0d7n448sqcwg1BDdjxkVUARICHP1\/xDRdbhv\/b\/yMI=",
       "url": "_framework\/Blazorise.Bootstrap.dll"
     },
     {
-      "hash": "sha256-YlEPWQC18ZJ37Bi1dnsCfoQ4lIs8LGVw0p5RzipnoLo=",
+      "hash": "sha256-ZirkROAaTIK8w24xEeO2ioMhjJGb3GGRgVB9qAF2bAQ=",
       "url": "_framework\/Blazorise.Components.dll"
     },
     {
@@ -865,11 +865,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-wc1whwyHPTm0WC7rlbNR5jOtSa+y+6CtyENpcInjeuY=",
+      "hash": "sha256-BeK+ISKQXySs+Zs4Rm0OIec7uo3u6FqJqF1EMtCy2FY=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-nYzYsrhGnCYiOLm5r1TIgf6m4F9\/Jai4xWzHNGi4elA=",
+      "hash": "sha256-Oln50SAQdTvqty9lWDy98HMAEnPPb6Ge+3Wyj9S71ZA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -877,5 +877,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "nv9wX0Hs"
+  "version": "bkxdXL8A"
 };

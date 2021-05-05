@@ -173,9 +173,9 @@
       "netstandard.dll": "sha256-stWPH7tpmfc4JFroiKGKWcPfLQ+ALD6yQUXA9NiV0fQ=",
       "System.Private.CoreLib.dll": "sha256-PbMTdb+kswRpFmuD8S4hY70nkZ9LeYJg7y3wm7hj0CQ=",
       "Blazored.LocalStorage.dll": "sha256-7+FtaZd2xSysaMLC59XhYdtkNMZ15ha0lk73dxPdT5w=",
-      "Blazorise.dll": "sha256-YBSG0iK+H44perVHhptdeBskve91OGvRUIhQfRNEDFQ=",
-      "Blazorise.Bootstrap.dll": "sha256-cj1DVix3Y72A7KcmbXib15y4N\/47LsfPAwGuIAimkC8=",
-      "Blazorise.Components.dll": "sha256-YlEPWQC18ZJ37Bi1dnsCfoQ4lIs8LGVw0p5RzipnoLo=",
+      "Blazorise.dll": "sha256-1FbUsCsYOWaS7lBvnmVXn54A2rYS03sMeSWH6CgfBYc=",
+      "Blazorise.Bootstrap.dll": "sha256-B0d7n448sqcwg1BDdjxkVUARICHP1\/xDRdbhv\/b\/yMI=",
+      "Blazorise.Components.dll": "sha256-ZirkROAaTIK8w24xEeO2ioMhjJGb3GGRgVB9qAF2bAQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-uqzDdvA1y7aCZ9f+ZgVxxPCBgdHHAdv5oC8nr\/wJwlg=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-x75QtUyDhNtf4MGvrdK01UaccUpMJtFDweQ3sN8ydic=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-4C38+0MTaBtJO8dHU\/cVqqnNDADbn5ccBqRedmvc92w=",
@@ -193,7 +193,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-w0G2c9HerfjA2TOs+L4Ufnrt9MsR8b+nLA5\/yt+ytxg=",
       "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "YouTubePlaylistBackup.dll": "sha256-wc1whwyHPTm0WC7rlbNR5jOtSa+y+6CtyENpcInjeuY="
+      "YouTubePlaylistBackup.dll": "sha256-BeK+ISKQXySs+Zs4Rm0OIec7uo3u6FqJqF1EMtCy2FY="
     },
     "lazyAssembly": null,
     "pdb": null,
