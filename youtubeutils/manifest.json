@@ -1,6 +1,6 @@
 {
-  "name": "YouTubePlaylistBackup",
-  "short_name": "YouTubePlaylistBackup",
+  "name": "YouTube Playlist Backup",
+  "short_name": "YouTube utils",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

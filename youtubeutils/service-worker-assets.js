@@ -57,7 +57,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-0o+g61tjG2mzKcSyN6a9IzdNyINO93k3oI9P3qZhHdY=",
+      "hash": "sha256-tzPajmFaM2bU+F7v64MH5YlhXMDOGTrXMMGfxe68S5k=",
       "url": "manifest.json"
     },
     {
@@ -781,7 +781,7 @@
       "url": "_content\/Blazorise.Bootstrap\/blazorise.bootstrap.js"
     },
     {
-      "hash": "sha256-7+FtaZd2xSysaMLC59XhYdtkNMZ15ha0lk73dxPdT5w=",
+      "hash": "sha256-5Mmb3rkofuJkj2sUYYm80IUBRwC8QQO8CziqiSwsMgg=",
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
@@ -795,6 +795,10 @@
     {
       "hash": "sha256-ZirkROAaTIK8w24xEeO2ioMhjJGb3GGRgVB9qAF2bAQ=",
       "url": "_framework\/Blazorise.Components.dll"
+    },
+    {
+      "hash": "sha256-zovgNsbcjw0E1mKARotcbS2KOf6eBmcW1ZoYMMtVIQo=",
+      "url": "_framework\/Bunit.Core.dll"
     },
     {
       "hash": "sha256-uqzDdvA1y7aCZ9f+ZgVxxPCBgdHHAdv5oC8nr\/wJwlg=",
@@ -837,7 +841,7 @@
       "url": "_framework\/Microsoft.Extensions.Logging.dll"
     },
     {
-      "hash": "sha256-1qMpq0WGanfSymZ7G9G2miVo\/3nU28VSxiJkuAkU6m4=",
+      "hash": "sha256-gJdwqMuOvzEF3Tz7a96y4RAlukQIzFMTD3Ptf6UV9CM=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
@@ -857,19 +861,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
-      "url": "_framework\/Newtonsoft.Json.dll"
-    },
-    {
       "hash": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-UCZXJ+6Wdzq26Q1cEzSP4\/yULuDhYnlbeMzGlC8cS+w=",
+      "hash": "sha256-mU+u2\/TKhjb7AAqw6CycVvDE3hYCNpCB2KB2k\/qg7rQ=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-BRjt\/rrBFl6JlDiuJ9t81SVSpl\/E46uf8LJIXk6SqFU=",
+      "hash": "sha256-CNv3zVNFx5zsFYIxQfoJcjSxBE8DoI5qCPsYo8RTSSM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -877,5 +877,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "afjslMF4"
+  "version": "iyBORvWD"
 };
