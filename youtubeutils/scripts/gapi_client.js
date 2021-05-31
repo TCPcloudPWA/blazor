@@ -1,7 +1,7 @@
 ﻿var gl_oCurrUser = null;
 
-window.signIn = () => {
-    authenticate();
+window.signIn = (bRedirect) => {
+    authenticate(bRedirect);
 };
 
 
@@ -27,7 +27,7 @@ function init() {
 }
 
 
-function processSignin() {
+function processSignin(bRedirect) {
     console.log("Sign-in successfully.");
 
     CSupport.hideElm(bttnSignIn);
@@ -44,7 +44,7 @@ function processSignin() {
     //var imgUrl = oProf.getImageUrl();
     var email = oProf.getEmail();
 
-    JsToDotNetBridge.setJsValJs("gapi_signin_status", [email]);
+    JsToDotNetBridge.setJsValJs((bRedirect ? "gapi_signin_redirect" : "gapi_signin"), [email]);
 }
 
 
@@ -56,15 +56,15 @@ function processSignout() {
     CSupport.hideElm(divGetPlaylists);
 
 
-    JsToDotNetBridge.setJsValJs("gapi_signin_status", [""]);
+    JsToDotNetBridge.setJsValJs("gapi_signin_redirect", [""]);
 }
 
 
-function authenticate() {
+function authenticate(bRedirect) {
     return gapi.auth2.getAuthInstance()
         .signIn()  // used to specify scopes here
         .then(function () {
-            processSignin();
+            processSignin(bRedirect);
         },
             function (err) {
                 showError("Failed to sign-in.", err.error);

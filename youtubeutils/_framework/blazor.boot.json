@@ -193,7 +193,7 @@
       "Microsoft.JSInterop.dll": "sha256-qPIvEaHuBRFKLKbFwUK34ATZV69kdVFC+lzKmpVMxpQ=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-PotMOSV6NCm1RFdQpG4oXzBipnkMHmHEr\/7e4q90k5k=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "YouTubePlaylistBackup.dll": "sha256-SibkMCP\/rU8N95r2u4TwsqoFfquerEspqg9lPSaqxeI="
+      "YouTubePlaylistBackup.dll": "sha256-s1fWAcwpSmoDWcT+chmTg9ueRHUdYJzn87ZJtBHRkcU="
     },
     "lazyAssembly": null,
     "pdb": null,
