@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-OZwjHnFnzEVgvwYq+J7oP+lCzrJSycxxgx\/ltqxuq4k=",
+      "hash": "sha256-eHlnt32ybE\/wQ8XWrmr3kuaZI3nF7cHTLcEIRcApzZw=",
       "url": "scripts\/blazor_client.js"
     },
     {
@@ -869,11 +869,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-9AEFqlgSlVXi3pY2JGDXB2BEgRTX2+HRLDUH7xLhF1I=",
+      "hash": "sha256-UzI16mYI21Y0SMJ3p+jLLrmr0\/eUtazpLBMPrgpDuPs=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-7sfEcfi9AJCl2+plGQ1XbdLmxyCPj1Lc+wESMIX7SpA=",
+      "hash": "sha256-c0i+W2VE1iGoAX74x8vd7xx7wluguyDq3JUiEnGSm7c=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -881,5 +881,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "dKc\/EzTj"
+  "version": "jVRQwcYt"
 };

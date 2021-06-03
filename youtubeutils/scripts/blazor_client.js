@@ -19,6 +19,14 @@
 }
 
 
+function getDimensions () {
+    return {
+        width: window.innerWidth,
+        height: window.innerHeight
+    }
+}
+
+
 function showError(title, msg) {
     console.error("-E- "+ title, msg);
 
