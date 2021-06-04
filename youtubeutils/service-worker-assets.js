@@ -869,11 +869,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-JFMM2oX6IAoseAYAcGYPTdd9JzDG0d94KQFEdMyxQyE=",
+      "hash": "sha256-6jePc096tUQgSdVJNyBHPJ+vFGveADSL+xxdgS+Q8PA=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-gFGo3I5M6BprVvU6sgO1SH89uKq5Px\/CEjakYG5OR68=",
+      "hash": "sha256-lgkOeINNcVa91DVO++Og\/OImDHeSXPLKpn05lwJzcQ4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -881,5 +881,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "xc0L84N4"
+  "version": "0lb5dh94"
 };
