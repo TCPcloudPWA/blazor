@@ -36,6 +36,8 @@ function processSignin(bRedirect) {
 
     gl_oCurrUser = gapi.auth2.getAuthInstance().currentUser.get();
     var token = gl_oCurrUser.getAuthResponse().access_token;
+    var expires_in = gl_oCurrUser.getAuthResponse().expires_in;
+    var expires_at = gl_oCurrUser.getAuthResponse().expires_at;
     JsToDotNetBridge.setJsValJs("gapi_token", [token]);
 
     var oProf = gl_oCurrUser.getBasicProfile();
