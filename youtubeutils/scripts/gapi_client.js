@@ -1,8 +1,16 @@
-﻿var gl_oCurrUser = null;
-
-window.signIn = (bRedirect) => {
+﻿window.signIn = (bRedirect) => {
     authenticate(bRedirect);
 };
+
+
+window.reloadAuth = () => {
+    var oUser = gapi.auth2.getAuthInstance().currentUser.get();
+    if (!oUser) {
+        return;
+    }
+
+    oUser.reloadAuthResponse().then(processSignin(false));
+}
 
 
 window.signOut = () => {
@@ -34,13 +42,15 @@ function processSignin(bRedirect) {
     CSupport.showElm(bttnSignOut);
     CSupport.showElm(divGetPlaylists);
 
-    gl_oCurrUser = gapi.auth2.getAuthInstance().currentUser.get();
-    var token = gl_oCurrUser.getAuthResponse().access_token;
-    var expires_in = gl_oCurrUser.getAuthResponse().expires_in;
-    var expires_at = gl_oCurrUser.getAuthResponse().expires_at;
-    JsToDotNetBridge.setJsValJs("gapi_token", [token]);
+    var oUser = gapi.auth2.getAuthInstance().currentUser.get();
+    var token = oUser.getAuthResponse().access_token;
+    var expires_at = oUser.getAuthResponse().expires_at;
 
-    var oProf = gl_oCurrUser.getBasicProfile();
+    JsToDotNetBridge.setJsValJs("gapi_token", [token]);
+    JsToDotNetBridge.setJsValJs("gapi_expires_at", [expires_at]);
+
+
+    var oProf = oUser.getBasicProfile();
     //var id = oProf.getId();
     //var name = oProf.getName();
     //var imgUrl = oProf.getImageUrl();
