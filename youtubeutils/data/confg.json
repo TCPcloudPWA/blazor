@@ -1,11 +1,14 @@
 {
-  "verId": "4",
+  "verId": "5",
   "anncmnts": {
     "https://www.microsoft.com/store/apps/9MV7WC0BNX52": "Click to try our new Memory quilt app"
   },
   "playlists": {
     "PLPlNJStLxPpKr2HjfYJCV1GKZmLa99S1X": "Less words more music",
     "PL3ZQ5CpNulQldOL3T8g8k1mgWWysJfE9w": "Top Stories",
-    "4gIcGhpnYW1pbmdfY29ycHVzX21vc3RfcG9wdWxhcg": "Gaming"
+    "PLG3wws6vwyGMnxc8PI_Y5dMgkWmXo37o9": "Health News",
+    "PL53nfRA55Gqca3-H9XKHJQvuvgxbcQl7r": "Science News",
+    "PLU0EK1HNDxA7SefwKg7d8F3O_hITP-3f3": "Technology News",
+    "PL3ZQ5CpNulQmA2Tegc98c0XXJTzuKb0wS": "News"
   }
 }
