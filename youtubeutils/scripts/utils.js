@@ -7,6 +7,11 @@ function scrollToTop() {
 }
 
 
+function scrollToId(id) {
+    CSupport.scrollToId(id);
+}
+
+
 const CSupport = {
     isEmpty: function (val) {
         if (typeof (val) == "object" && val != null) return false;
@@ -34,6 +39,18 @@ const CSupport = {
 
     scrollToTop: function () {
         window.scrollTo(0, 0);
+    },
+
+    scrollToId: function (id) {
+        const element = getElmById(id);
+
+        if (element instanceof HTMLElement) {
+            element.scrollIntoView({
+                behavior: "smooth",
+                block: "start",     // one of start, center, end, or nearest. Defaults to start
+                inline: "nearest"   // one of start, center, end, or nearest. Defaults to nearest
+            });
+        }
     }
 };
 

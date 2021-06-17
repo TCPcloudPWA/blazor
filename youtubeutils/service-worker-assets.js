@@ -73,7 +73,7 @@
       "url": "scripts\/gapi_client.js"
     },
     {
-      "hash": "sha256-1kbfQjghiHQBB5\/D1iILghveAapXci77xpT\/3\/7r0wk=",
+      "hash": "sha256-Zs6C10xZkpbUxlcx2P6n2lfBu9FRU3QAspHiLKyHzUQ=",
       "url": "scripts\/utils.js"
     },
     {
@@ -785,7 +785,7 @@
       "url": "_content\/Blazorise.Bootstrap\/blazorise.bootstrap.js"
     },
     {
-      "hash": "sha256-TcFA5QZF0gtyVejGj9WtVja6TUlO91T102IftXHVKh0=",
+      "hash": "sha256-uY2ERHMILJtHL7xbvGDKMMPCgWikvrFjzBjfQHD95B4=",
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
@@ -869,11 +869,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-o3bkvsGlyWbVOkP46C7giVe2h3K8OEt+nHuw7Z3DaMs=",
+      "hash": "sha256-lvMisOrPY\/ip0sh\/1k+WCtY06BFJ6IPxKFee0xSUfbM=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-5WZP43GpsBpWED884DftMX+PFMj9nKdbmRcFPmB2FwQ=",
+      "hash": "sha256-OngSPCfhBvy0RxFl\/BoJkUtjzHeSYYQb+Pgu9jjS4Zo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -881,5 +881,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "XNsa4JtY"
+  "version": "aMR4l0N0"
 };
