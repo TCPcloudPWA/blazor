@@ -61,7 +61,7 @@
       "url": "images\/thumb_unavailable.png"
     },
     {
-      "hash": "sha256-9lrpMLS0q6dRQ5Y6WZoucHB2I6sD7Qsachun2U4g7tk=",
+      "hash": "sha256-o2uGItst5jeD3WZQ9k+\/BAsPNEk+jXHAVBAMoajmf1Q=",
       "url": "index.html"
     },
     {
@@ -881,11 +881,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-a6QfU0NsEcHeaH9QP\/s6w5HH4wpWl2qM\/47IpBD4lWc=",
+      "hash": "sha256-p46BjIZm7ElUYG+bvF2cbkl6bg8c1m0LngdmqrKGFEw=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-SoDkqmoH9t15E7uEsZ0Rs66Ltef3W8q+hHfIjHuUiNQ=",
+      "hash": "sha256-PjquDBZDM59UqGvZblD\/00L9qVxxSUvpuPJSqYPD9Bo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -893,5 +893,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "vzu11J2F"
+  "version": "nc5NUluh"
 };
