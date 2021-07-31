@@ -69,10 +69,6 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-LgZpN51aMdyXAWEUFGQe\/VmerfOIHDBSXIuWEBvnDgQ=",
-      "url": "privacy-policy.html"
-    },
-    {
       "hash": "sha256-y+B034ht\/9vuY3cWDvRkg1jCEJqtnbuGDJhr6uT1TFw=",
       "url": "scripts\/blazor_client.js"
     },
