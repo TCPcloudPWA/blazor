@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-VT55JyOdd+jvcfhSjPWbCYvU1Euavs5SxnrLLIifeSM=",
+      "hash": "sha256-LgZpN51aMdyXAWEUFGQe\/VmerfOIHDBSXIuWEBvnDgQ=",
       "url": "privacy-policy.html"
     },
     {
@@ -885,11 +885,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-02A3JAAJIuPpbTN2kQMNOyF1egOtDMDlxRghqY+cavg=",
+      "hash": "sha256-deeXRVh\/XpfePNf5haM3fcS9Q9B25Py8UeobjKkSR70=",
       "url": "_framework\/YouTubePlaylistBackup.dll"
     },
     {
-      "hash": "sha256-PiZUuVkBMP7\/\/JaDgEv2+yiZ\/lbsM698\/BDfNw5y91w=",
+      "hash": "sha256-zY65YY7pzaRXyjay7AaSQTZ+9PJptob9WqwcIQLII8E=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -897,5 +897,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "p7FgRDm6"
+  "version": "KnpYNVxo"
 };
