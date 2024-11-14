@@ -105,7 +105,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-lMIN4t3rFHmLBYghqzYtpwnGMCNGSu5r0izl03vNL20=",
+      "hash": "sha256-gm37UtgdNkCPNk7o\/L2ELj7P1nAoHss2BFXzDfx44QI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -337,7 +337,7 @@
       "url": "_framework\/System.wasm"
     },
     {
-      "hash": "sha256-Q2KdX7yDRrUOY5PwecE1rx5czo4VlALLhOIL80W16ac=",
+      "hash": "sha256-1rKyC+lu10CtanUw5R\/mtKJ+iz2EiGYVSKS3ecLzZXQ=",
       "url": "_framework\/YouTubePlaylistBackup.wasm"
     },
     {
@@ -513,5 +513,5 @@
       "url": "_content\/Blazorise\/vendors\/sha512.js"
     }
   ],
-  "version": "6hdpkpwA"
+  "version": "trKUeX6K"
 };
