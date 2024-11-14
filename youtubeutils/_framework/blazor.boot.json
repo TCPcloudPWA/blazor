@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "YouTubePlaylistBackup",
   "resources": {
-    "hash": "sha256-CAoEk6m4kvTGnyzFmNMNDC4E12VbTuGl1kmr7xgml7A=",
+    "hash": "sha256-5LskRg6kCJqzOxXtJw9hurXMajGYBzT9emcFw0VVp/0=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.cy8vylkrsd.js": "sha256-p7ClT8o5uqssszvzfZUGhBlLOOkeUrpskkbm2FHab3g="
     },
@@ -72,7 +72,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-5HX8ja19IfXYmpSUuOhQUPKskcv8aJOaFCc2V4Gq+4g=",
       "System.Threading.wasm": "sha256-3GBLebFbHp5xHAF3QdQYWYmJe+6VzldofEIl3DFuNCA=",
       "System.wasm": "sha256-UsIFTsNRr1Sw/A0hEbTyYbQo5eHUNmMuOWT6/xaM3TE=",
-      "YouTubePlaylistBackup.wasm": "sha256-1rKyC+lu10CtanUw5R/mtKJ+iz2EiGYVSKS3ecLzZXQ="
+      "YouTubePlaylistBackup.wasm": "sha256-xw7uTyA/Ao5+TQ07MjriaSAA+cClWOEm7mvtpI2yszg="
     }
   },
   "cacheBootResources": true,
