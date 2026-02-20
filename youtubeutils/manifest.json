@@ -1,5 +1,5 @@
 {
-  "name": "Playlist backup for YouTube",
+  "name": "Tube playlist backup",
   "short_name": "YouTube utils",
   "start_url": "./",
   "display": "standalone",
