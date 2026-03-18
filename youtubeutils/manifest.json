@@ -1,11 +1,11 @@
 {
   "name": "Playlist backup for YouTube",
-  "short_name": "YouTube utils",
+  "short_name": "YT Playlist Backup",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
-  "description": "If you like to organize YouTube videos by playlists and watch them later, this app is for you. You can backup playlists for more than one account. It allows searching through all playlists and displaying only playlists containing video names with specified criteria, showing the original video name if the video became private or deleted. App downloads playlists per your request when you ready to backup.  Straightforward interface, no unnecessary content is loaded from YouTube, just your playlists. Enjoy",
+  "description": "If you like organizing YouTube videos into playlists and watching them later, this app is for you. You can back up playlists from multiple accounts. The app lets you search across all playlists and filter by video name, even showing original titles for videos that have become private or deleted. Playlists are downloaded only when you're ready to back them up. The interface is straightforward, no unnecessary content is loaded from YouTube, just your playlists. Enjoy!",
   "categories": [
     "youtube",
     "playlist",

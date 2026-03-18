@@ -1,3 +1,33 @@
+/* /Pages/Index.razor.rz.scp.css */
+.marquee[b-54iewgscgt] {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.marquee-pos[b-54iewgscgt] {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: lightgray;
+    border-top: ridge;
+}
+
+.marquee span[b-54iewgscgt] {
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll-b-54iewgscgt 20s linear infinite;
+}
+
+@keyframes scroll-b-54iewgscgt {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-n4p809j7af] {
     position: relative;
