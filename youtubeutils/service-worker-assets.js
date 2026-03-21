@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "kWjRXMAx",
+  "version": "2bBGuUac",
   "assets": [
     {
       "hash": "sha256-awckpjoGsBSBJCm/GuvYceokAgeP3JlHUFhgEIZl6Lo=",
@@ -402,11 +402,11 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-8zEyB3VAwEAb/hN+eQPeDT1LGuVRhLgVMMANllzceBw=",
+      "hash": "sha256-UE1klAp5fx/16QsGvE5JI7NcuwsCZ46npU/wonnmdw0=",
       "url": "_framework/YouTubePlaylistBackup.wasm"
     },
     {
-      "hash": "sha256-ydvS6cZJUSPXO8PCa2+bGjB1RQs2rVEJitY5wb0ZNX0=",
+      "hash": "sha256-U9EAwKRkRMn7dyWwaZo/fxdDu8NMka7X21S/SLUeZSk=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -502,7 +502,7 @@ self.assetsManifest = {
       "url": "images/thumb_unavailable.png"
     },
     {
-      "hash": "sha256-+gcbET9R5exqj6XnCpQdEMh1Q4a2ob6h1kdF9EPbQNI=",
+      "hash": "sha256-XPRT0C+BAKwwKHPDEwugyvkMg1vrPjEz9nb/KKyPXvY=",
       "url": "index.html"
     },
     {

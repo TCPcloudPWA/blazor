@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <link href="icon-512.png" rel="icon" type="image/png" />
+    <link rel="icon" type="image/png" href="icon-512.png" />
     <title>Playlist backup for YouTube</title>
 
     <script src="scripts/blazor_client.js"></script>
@@ -14,8 +14,8 @@
     <base href="/blazor/youtubeutils/" />
     <script>
         if (window.location.host.includes('localhost')) {
-            var base = getElmsByTagName('base')[0];
-            base.setAttribute('href', '/');
+        var base = getElmsByTagName('base')[0];
+        base.setAttribute('href', '/');
         }
     </script>
 
@@ -30,8 +30,6 @@
     <link href="YouTubePlaylistBackup.styles.css" rel="stylesheet" />
     <link href="manifest.json" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
-
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7828465769162067" crossorigin="anonymous"></script>
 </head>
 
 <body>
