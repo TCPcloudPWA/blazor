@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "H6DUizJ5",
+  "version": "ANfaGciG",
   "assets": [
     {
       "hash": "sha256-awckpjoGsBSBJCm/GuvYceokAgeP3JlHUFhgEIZl6Lo=",
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-pR+8PkQGdQUXNuP+7amqn1EAkxyYlgJTgwEerCO7gNg=",
+      "hash": "sha256-ZmiWXabkZ70c4ujDIr/ZqOlnv8rVFlfIKPv/NtG4FyM=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -382,11 +382,11 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-/WbBR7uMsq00pkcRImq5mln5jGfnfw2pUsJtFU7e+4k=",
+      "hash": "sha256-Fqt6jX3AsriTxCqK2w4n8KgYSi1CQ0rvOuT65FE+lsY=",
       "url": "_framework/YouTubePlaylistBackup.wasm"
     },
     {
-      "hash": "sha256-bhiyWVnnUoAoW0chjlnZYMPu6kskVO+ki8PocnMRGJA=",
+      "hash": "sha256-Cs4IjF3GcvxHO/v/IkqCRi3CvfOkggt2Hi8WD3xJpnA=",
       "url": "_framework/blazor.boot.json"
     },
     {
