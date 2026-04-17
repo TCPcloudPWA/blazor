@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "NMbhDFwT",
+  "version": "H6DUizJ5",
   "assets": [
     {
       "hash": "sha256-awckpjoGsBSBJCm/GuvYceokAgeP3JlHUFhgEIZl6Lo=",
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-ZmiWXabkZ70c4ujDIr/ZqOlnv8rVFlfIKPv/NtG4FyM=",
+      "hash": "sha256-pR+8PkQGdQUXNuP+7amqn1EAkxyYlgJTgwEerCO7gNg=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -382,11 +382,11 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-wf9Kf0KeruyEN/m9bZk7H3EftSPadTlTIE+dGj+2BuI=",
+      "hash": "sha256-/WbBR7uMsq00pkcRImq5mln5jGfnfw2pUsJtFU7e+4k=",
       "url": "_framework/YouTubePlaylistBackup.wasm"
     },
     {
-      "hash": "sha256-4wQs9rXFX6MjWUlYfMZ/TPf4k8l8PRH+Erjk0fpBras=",
+      "hash": "sha256-bhiyWVnnUoAoW0chjlnZYMPu6kskVO+ki8PocnMRGJA=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -462,7 +462,7 @@ self.assetsManifest = {
       "url": "css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "hash": "sha256-XNY42SPJ9H3FtJIkRsBYNICqX+pZlGYe6DSWJivUrqk=",
+      "hash": "sha256-Y9vCQKGqrgqa8dh9rnFQbfEhvXq82nS/KgZ9zl5AWno=",
       "url": "data/confg.json"
     },
     {
